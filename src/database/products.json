@@ -1,0 +1,26 @@
+[
+    {
+        "productId": 1,
+        "name": "dvd",
+        "subCategoryId": 2,
+        "model": "dvd 6 pro",
+        "color": "blue",
+        "price": "200"
+    },
+    {
+        "productId": 2,
+        "name": "tv",
+        "subCategoryId": 3,
+        "model": "Artel 48 2x",
+        "color": "black",
+        "price": "550"
+    },
+    {
+        "productId": 3,
+        "name": "phone",
+        "subCategoryId": 3,
+        "model": "galaxy",
+        "color": "red",
+        "price": "180"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "subCategoryId": 1,
+        "name": "tv",
+        "categoryId": 2
+    },
+    {
+        "subCategoryId": 2,
+        "name": "phones",
+        "categoryId": 3
+    },
+    {
+        "subCategoryId": 3,
+        "name": "watches",
+        "categoryId": 3
+    }
+]
